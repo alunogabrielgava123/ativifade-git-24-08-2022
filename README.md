@@ -51,6 +51,24 @@ Output :
          3
          4
          pife
+         
+Resposta:
+var
+i : inteiro
+
+inicio
+// Seção de Comandos
+i <- 0
+enquanto (i < 100) faca
+         i <- i + 1
+         se (i mod 2 <> 0) entao
+            escreval("PIFE!")
+         senao
+              escreval(i)
+         fimse
+fimenquanto
+
+fimalgoritmo
 
 ------------------------------------------//----------------------------
 
