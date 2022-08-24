@@ -20,6 +20,7 @@ R: Algoritmo "Atividade 2"
 // Descrição   : Soma dos elementos de um Array de 4 elementos
 // Autor(a)    : Rafael Yuki Tobaru
 // Data atual  : 24/08/2022
+
 Var
 array : vetor[0..3] de inteiro
 i, soma : inteiro
