@@ -36,6 +36,19 @@ Output :
 Atividade 4 
 Crie um função que retorne a area de um triangulo formula B.h/2
 
+Resposta:
+var
+ altura, area, base : real
+inicio
+// Seção de Comandos
+escreva("Digite o valor do altura: ")
+    leia(altura)
+    escreva("Digite o valor do base: ")
+    leia(base)
+    area <- base*altura/2
+    escreval("O valor do area: ", area:0:6)
+fimalgoritmo
+
 
 ------------------------------------------//----------------------------
 
