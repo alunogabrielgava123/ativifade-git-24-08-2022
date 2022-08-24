@@ -38,7 +38,7 @@ Fimalgoritmo
 
 #Atividade 3
 
-Pife Numero impares tem que ser dito pife
+Pife Numero divisiveis por 5 tem que ser dito pife
 
 Input [1,2,3,4,5]
 
