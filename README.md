@@ -1,4 +1,7 @@
 
+
+# Gabriel Gava Pinheiro, Vitor Leandro Machado, Samuel Pereira Cunha, Rafael Yuki Tobaru
+
 #Atividade 1
 Descubra o maior e menor numero dentro de um um vetor
 
@@ -69,6 +72,9 @@ fimalgoritmo
 
 
 ------------------------------------------//----------------------------
+
+
+
 
 
 
