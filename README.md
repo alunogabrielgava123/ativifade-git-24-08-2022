@@ -16,6 +16,23 @@ Input [1,2,3,4]
 
 Output: 10
 
+R: Algoritmo "Atividade 2"
+// Descrição   : Soma dos elementos de um Array de 4 elementos
+// Autor(a)    : Rafael Yuki Tobaru
+// Data atual  : 24/08/2022
+Var
+array : vetor[0..3] de inteiro
+i, soma : inteiro
+
+Inicio
+soma <- 0
+para i <- 0 ate 3 passo 1 faca
+   escreva("Informe um Número (", i, " / 4 ): ")
+   leia(array[i])
+   soma <- soma + array[i]
+fimpara
+escreva("Soma dos Elementos do Array: ", soma)
+Fimalgoritmo
 ------------------------------------------//----------------------------
 
 #Atividade 3
